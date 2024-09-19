@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# Practice Java
+Practice.java
+
 # Log file
 *.log
 
